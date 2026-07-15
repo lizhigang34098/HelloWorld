@@ -1,5 +1,6 @@
 #include "stm32f10x.h"                  // Device header
 //添加了一行注释 1
+//冲突1
 /**
   * 函    数：LED初始化
   * 参    数：无
