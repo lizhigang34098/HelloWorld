@@ -1,6 +1,5 @@
 #include "stm32f10x.h"                  // Device header
 //添加了一行注释 1
-//回退测试2
 /**
   * 函    数：LED初始化
   * 参    数：无
